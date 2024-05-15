@@ -2,7 +2,7 @@
 
     import java.io.IOException;
 
-    public class Main {
+    public class Main_Server {
 
         public static void main(String[] args) {
             EchoServer server=new EchoServer();
